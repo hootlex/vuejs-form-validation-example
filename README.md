@@ -10,6 +10,6 @@ The validation is performed within [App.vue](https://github.com/hootlex/vuejs-fo
 If you want to run it, download the code of this repository and run:
 
 ```
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
